@@ -1,3 +1,5 @@
+# this code is form libssh2-for-iOS, update to arc and add vt100 render
+
 # libssh2-for-iOS [![Build Status](https://travis-ci.org/x2on/libssh2-for-iOS.png)](https://travis-ci.org/x2on/libssh2-for-iOS)
 
 This is a tutorial for using self-compiled builds of the libssh2-library for iOS. You can build apps with XCode and the official SDK from Apple with this. I also made a small example-app for using the libraries with XCode and the iPhone/iPhone-Simulator.
